@@ -1,32 +1,32 @@
-# Trabalhar com frases afirmativas (Presente)
+# Trabalhar com frases afirmativas (Passado)
 
 #  Working with affirmative sentences (Present)
 
-|  verbs (verbos)   |   I - eu    |  You - você   | He - Ele            |  She - Ela   |   It - Coisa    |    We - Nós     |  They - Eles   |
-| :---------------: | :---------: | :-----------: | ------------------- | :----------: | :-------------: | :-------------: | :------------: |
-|      To work      |   I work    |   you work    | he works            |  she works   |    It works     |     we work     |   they work    |
-|     Trabalhar     | Eu trabalho | Você trabalha | Ele trabalha        | Ela Trabalha | "Isso trabalha" | Nós trabalhamos | Eles trabalham |
-|                   |             |               |                     |              |                 |                 |                |
-|       To go       |    I go     |    you go     | he goes             |   she goes   |     it goes     |      we go      |    they go     |
-|        ir         |   eu vou    |   você vai    | ele vai             |   ela vai    |   "Isso vai "   |    nós vamos    |    eles vão    |
-|                   |             |               |                     |              |                 |                 |                |
-|      To sing      |   I sing    |   you sing    | he sings            |  she sings   |    it sings     |     we sing     |   they sing    |
-|      Cantar       |  eu canto   |  você canta   | ele canta           |  ela canta   |  "Isso canta"   |  nós cantamos   |  eles cantam   |
-|                   |             |               |                     |              |                 |                 |                |
-| To Bring (Bur'en) |   I bring   |   you bring   | he brings (Bur'ens) |  she brings  |    it brings    |    we bring     |   they bring   |
-|      Trazer       |  Eu trago   |   Você traz   | ele traz            |   ela traz   |   "isso traz"   |  nós trazemos   |  eles trazem   |
-|                   |             |               |                     |              |                 |                 |                |
-|     To Drink      |   I drink   |   you drink   | he drinks           |  she drinks  |    it drinks    |    we drink     |   they drink   |
-|       Beber       |   Eu Bebo   |   Você bebe   | ele bebe            |   ela bebe   |   "isso bebe"   |   nós bebemos   |   eles bebem   |
-|                   |             |               |                     |              |                 |                 |                |
-|      To Ask       |    I ask    |    you ask    | he asks             |   she asks   |     it asks     |     we ask      |    they ask    |
-|     perguntar     | eu pergunto | você pergunta | ele pergunta        | ela pergunta | "isso pergunta" | nós perguntamos | eles perguntam |
-|                   |             |               |                     |              |                 |                 |                |
-|      To Like      |   I Like    |   you Like    | he likes            |  she likes   |    it likes     |     we like     |   they like    |
-|      gostar       |  eu gosto   |  você gosta   | ele gosta           |  ela gosta   |  "isso gosta"   |  nós gostamos   |  eles gostam   |
-|                   |             |               |                     |              |                 |                 |                |
-|     To Break      |   I break   |   you break   | he breaks           |  she breaks  |    it breaks    |    we break     |   they break   |
-|       Parar       |   eu paro   |   você para   | ele para            |   ela para   |    isso para    |   nós paramos   |   eles param   |
-|                   |             |               |                     |              |                 |                 |                |
-|      To Eat       |    I eat    |    you eat    | he eats             |   she eats   |     it eats     |     we eat      |    they eat    |
-|       Comer       |   eu como   |   você come   | ele come            |   ela come   |    isso come    |   nós comemos   |   eles comem   |
+| verbs (verbos) | "Pronuncia" |    I - eu    |   You - você   |   He - Ele    |   She - Ela   |   It - Coisa   |    We - Nós     |   They - Eles    |
+| :------------: | :---------: | :----------: | :------------: | :-----------: | :-----------: | :------------: | :-------------: | :--------------: |
+|    To work     |   uor'ked   |   I worked   |   you worked   |   he worked   |  she worked   |   it worked    |    we worked    |   they worked    |
+|   Trabalhar    |             |  trablalhei  | você trabalhou | ele trabalhou | ela trabalhou | isso trabalgou | nós trabalhamos | eles trabalharam |
+|                |             |              |                |               |               |                |                 |                  |
+|     To go      |    uen't    |    I went    |    you went    |    he went    |   she went    |    it went     |     we went     |    they went     |
+|       ir       |             |    eu fui    |    você foi    |    ele foi    |    ela foi    |    isso foi    |    nós fomos    |    eles foram    |
+|                |             |              |                |               |               |                |                 |                  |
+| To sing - sang |    san'g    |    I sang    |    you sang    |    he sang    |   she sang    |    it sang     |     we sang     |    they sang     |
+|     Cantar     |             |  eu cantei   |  você cantou   |  ele cantou   |  ela cantou   |  isso cantou   |  nós cantamos   |  eles cantaram   |
+|                |             |              |                |               |               |                |                 |                  |
+|    To Bring    |   Buór't    |  I brought   |  you brought   |  he brought   |  she brought  |   it brought   |   we brought    |   they brought   |
+|     Trazer     |             |  eu trouxe   |  você trouxe   |  ele trouxe   |  ela brought  |  isso trouxe   |  nós trouxemos  |  eles trouxeram  |
+|                |             |              |                |               |               |                |                 |                  |
+|    To Drink    |   duern'k   |   I drank    |   you drank    |   he drank    |   she drank   |    it drank    |    we drank     |    they drank    |
+|     Beber      |             |   eu bebi    |   você bebeu   |  Sele bebeu   |   ela bebeu   |   isso bebeu   |   nós bebemos   |   eles beberam   |
+|                |             |              |                |               |               |                |                 |                  |
+|     To Ask     |   asque'd   |   I asked    |   you asked    |   he asked    |   she asked   |    it asked    |    we asked     |    they asked    |
+|   perguntar    |             | eu perguntei | você perguntou | ele perguntou | ela perguntou | isso perguntou | nós perguntamos | eles perguntaram |
+|                |             |              |                |               |               |                |                 |                  |
+|    To Like     |  laique'd   |   I liked    |   you liked    |   he liked    |   she liked   |    it liked    |    we liked     |    they liked    |
+|     gostar     |             |  eu gostei   |   ele gostou   |  ele gostou   |  ela gostou   |  isso gostoi   | nós gostavamos  |  eles gostavam   |
+|                |             |              |                |               |               |                |                 |                  |
+|    To Break    |   buer'k    |   I brake    |   you brake    |   he brake    |   she brake   |    it break    |    we break     |    they brake    |
+|    quebrar     |             |  eu quebrei  |  você quebrou  |  ele quebrou  |  ela quebrou  |  isso quebrou  |  nós quebramos  |  eles quebraram  |
+|                |             |              |                |               |               |                |                 |                  |
+|     To Eat     |    ei't     |    I ate     |    you ate     |    he ate     |    she ate    |     it ate     |     we ate      |     they ate     |
+|     comer      |             |   eu comi    |   você comeu   |   ele comeu   |   ela comeu   |   isso comeu   |   nós comemos   |   eles comeram   |
