@@ -5,7 +5,7 @@
 | verbs (verbos) | "Pronuncia" |    I - eu    |   You - você   |   He - Ele    |   She - Ela   |   It - Coisa   |    We - Nós     |   They - Eles    |
 | :------------: | :---------: | :----------: | :------------: | :-----------: | :-----------: | :------------: | :-------------: | :--------------: |
 |    To work     |   uor'ked   |   I worked   |   you worked   |   he worked   |  she worked   |   it worked    |    we worked    |   they worked    |
-|   Trabalhar    |             |  trablalhei  | você trabalhou | ele trabalhou | ela trabalhou | isso trabalgou | nós trabalhamos | eles trabalharam |
+|   Trabalhar    |             |  trablalhei  | você trabalhou | ele trabalhou | ela trabalhou | isso trabalhou | nós trabalhamos | eles trabalharam |
 |                |             |              |                |               |               |                |                 |                  |
 |     To go      |    uen't    |    I went    |    you went    |    he went    |   she went    |    it went     |     we went     |    they went     |
 |       ir       |             |    eu fui    |    você foi    |    ele foi    |    ela foi    |    isso foi    |    nós fomos    |    eles foram    |
