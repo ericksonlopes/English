@@ -13,7 +13,7 @@
 |      To sing      |   I sing    |   you sing    |      he sings       |  she sings   |    it sings     |     we sing     |   they sing    |
 |      Cantar       |  eu canto   |  você canta   |      ele canta      |  ela canta   |  "Isso canta"   |  nós cantamos   |  eles cantam   |
 |                   |             |               |                     |              |                 |                 |                |
-| To Bring (Bur'en) |   I bring   |   you bring   | he brings (Bur'ens) |  she brings  |    it brings    |    we bring     |   they bring   |
+| To Bring (Burn,gui) |   I bring   |   you bring   | he brings (Bur'ens) |  she brings  |    it brings    |    we bring     |   they bring   |
 |      Trazer       |  Eu trago   |   Você traz   |      ele traz       |   ela traz   |   "isso traz"   |  nós trazemos   |  eles trazem   |
 |                   |             |               |                     |              |                 |                 |                |
 |     To Drink      |   I drink   |   you drink   |      he drinks      |  she drinks  |    it drinks    |    we drink     |   they drink   |
