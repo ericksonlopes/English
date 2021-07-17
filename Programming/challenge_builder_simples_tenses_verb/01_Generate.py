@@ -8,7 +8,7 @@ def challenge_builder_simples_tenses_verb():
     pronouns = ['I', 'You', 'He', 'She', 'It', 'We', 'They']
 
     with open('100_verbs.csv') as file_csv:
-        verbs = [line for line in csv.reader(file_csv)]
+        verbs = [line for line in csv.reader(file_csv) if not line[1] == 'x']
 
     verb = random.choice(verbs)
 
